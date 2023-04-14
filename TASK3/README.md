@@ -1,4 +1,4 @@
-To Start Applicaction:
+To Start Applicaction:(run this commands from TASK3/ directory)
  1. npm install
  2. npm run createdb
  2. npm run start
